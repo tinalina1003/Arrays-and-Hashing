@@ -13,7 +13,7 @@ class solutions:
     
 list1 = [1, 2, 3, 1]
 
-s = solutions()
+s = solutions() # I need to execute the function to access things inside
 
 result = s.containsDupe(list1)
 
